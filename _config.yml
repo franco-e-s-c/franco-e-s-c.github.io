@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Franco Silva
+title: Solution Engineering Intern @ FICO
+email: franco.silva4477@alumnos.udg.mx
+website: https://github.com/franco-e-s-c
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: Franco_e_s_c
+github_username:  franco-e-s-c
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: Franco Silva
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,71 +46,80 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jfif
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, I'm Franco currently I'm working at FICO as a Solution Consultant Intern. I'm about to finish my Computer Engineering degree, if everything goes well by december I officially will be an engineer. 
+  
+  Most of my experience has been working with web applications, frameworks like <mark>Flask</mark> or <mark>Electron</mark>. But now at my job I'm learning Java, Docker, Kubernetes, Springboot, AWS. So stay tunned to watch that :)
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: GoGamblerGo
+        link: https://github.com/franco-e-s-c/GoGamblerGo-App
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: franco-e-s-c/GoGamblerGo-App
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/franco-e-s-c/GoGamblerGo-App
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This was my final project. Me and 2 friends develop this system that bring to machines the classic Iowa Gambling Task, adding some useful features that were asked by a group of Dr's of CUCEI
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I highly recommend going through the documentation if you want to undestand this project. It was a full year of development so it's a little complex thing.
+      - layout: top-middle
+        title: FBref-LigaMx-Scraper
+        link: https://github.com/franco-e-s-c/FBref-LigaMx-Scraper
+        # link_text: Project Website
+        additional_links:
+          - title: franco-e-s-c/FBref-LigaMx-Scraper
+            icon: fab fa-github
+            url: https://github.com/franco-e-s-c/FBref-LigaMx-Scraper
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This was a very little project. I just wanted tu play a little with python and pandas
+        description: | # this will include new lines to allow paragraphs
+          The objective of this app is create spreadsheets of the LigaMX seasons, incluiding liguilla and regular seasons. All info scrapped from FBref
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: FICO
+        link: fico.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Solution Engineering Intern
+        caption: July 2024 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Right now im learning a lot of useful tech and business knowlegde 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            I'm just an intern, theres not a lot i have to say. It's been a great experience so far. A bit stressful, but it's my first job so i'm still adapting. I'm glad the team has allowed me to get involved in real project's, i think that's really the best way to experience the real world
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Universidad de Guadalajara. CUCEI
+        caption: 2020 - 2024
+        sub_title: Computer Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          I'm not a big fan of UDG.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          But I had a good university experience, being allowed to knew a lot of people, making good friends, and a lot of contacts too!
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      When I have free time I like to:
+      - Watch Movies & Series
+      - Play videogames with my friends
+      - Enjoy time with my pets
 
 # Footer
 footer_show_references: true
