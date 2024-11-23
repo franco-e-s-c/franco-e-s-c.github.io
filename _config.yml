@@ -3,16 +3,16 @@ repository: franco-e-s-c/franco-e-s-c.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 1
+version: 2
 
 # Personal info
 name: Franco Silva Chacon
 title: Solution Engineering Intern @ FICO
 email: franco.silva4477@alumnos.udg.mx
-website: https://franco-e-s-c.github.io/CV/
+website: https://franco-e-s-c.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: Franco_e_s_c
@@ -30,10 +30,10 @@ linkedin_username: Franco Silva
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
